@@ -1,4 +1,13 @@
 # BootGuard status
+## What is this?
+TBD. I don't know.
+
+## Okay. How can I check BootGuard status?
+1. Boot with `iomem=relaxed`.
+2. `sudo modprobe msr`
+3. `git clone https://review.coreboot.org/coreboot`
+4. `cd coreboot/util/intelmetool && make`
+5. `sudo ./intelmetool -b`
 
 ## ASUS
 | Model | Category | BootGuard | Manufactoring mode | ME version | Firmware version | coreboot support |
