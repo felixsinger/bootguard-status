@@ -21,7 +21,7 @@ TBD. I don't know.
 |:------|:--------:|:---------:|:------------------:|:----------:|:----------------:|:----------------:|
 | Z370 Taichi | Desktop | Yes | No | Unknown | Unknown | No |
 
-# Gigabyte
+## Gigabyte
 | Model | Category | BootGuard | Manufactoring mode | ME version | Firmware version | coreboot support |
 |:------|:--------:|:---------:|:------------------:|:----------:|:----------------:|:----------------:|
 | GA-Z97MX-Gaming 5 | Desktop | Yes | Yes | Unknown | Unknown | No |
