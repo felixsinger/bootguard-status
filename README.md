@@ -14,6 +14,7 @@ TBD. I don't know.
 |:------|:--------:|:---------:|:------------------:|:----------:|:----------------:|:----------------:|
 | STRIX X99 Gaming | Desktop | No | No | 9.x | Unknown | No |
 | Z170-A | Desktop | Yes | No | 11.x | Unknown | No |
+| PRIME Z370-A | Desktop | Yes | No | Unknown | Unknown | No |
 
 ## ASRock
 | Model | Category | BootGuard | Manufactoring mode | ME version | Firmware version | coreboot support |
