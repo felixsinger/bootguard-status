@@ -26,3 +26,4 @@ TBD. I don't know.
 | Model | Category | BootGuard | Manufactoring mode | ME version | Firmware version | coreboot support |
 |:------|:--------:|:---------:|:------------------:|:----------:|:----------------:|:----------------:|
 | GA-Z97MX-Gaming 5 | Desktop | Yes | Yes | Unknown | Unknown | No |
+| GA-Z170X-Gaming 7 | Desktop | Yes | Yes | Unknown | F8 | No |
