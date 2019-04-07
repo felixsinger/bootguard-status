@@ -27,3 +27,8 @@ TBD. I don't know.
 |:------|:--------:|:---------:|:------------------:|:----------:|:----------------:|:----------------:|
 | GA-Z97MX-Gaming 5 | Desktop | Yes | Yes | 9.1 | F4 (05/2014) | No |
 | GA-Z170X-Gaming 7 | Desktop | Yes | Yes | Unknown | F8 | No |
+
+## Dell
+| Model | Category | BootGuard | Manufactoring mode | ME version | Firmware version | coreboot support |
+|:------|:--------:|:---------:|:------------------:|:----------:|:----------------:|:----------------:|
+| XPS 15 9560 | Notebook | Yes | No | 11.8 | 1.12.1 | No |
