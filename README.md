@@ -27,6 +27,7 @@ TBD. I don't know.
 |:------|:--------:|:---------:|:------------------:|:----------:|:----------------:|:----------------:|
 | GA-Z97MX-Gaming 5 | Desktop | Yes | Yes | 9.1 | F4 (05/2014) | No |
 | GA-Z170X-Gaming 7 | Desktop | Yes | Yes | Unknown | F8 | No |
+| GA-Z170N-WIFI | Desktop | Yes | Yes | 11.0 | F6 (10/2015) | No |
 
 ## Dell
 | Model | Category | BootGuard | Manufactoring mode | ME version | Firmware version | coreboot support |
