@@ -42,6 +42,7 @@ TBD.
 | XPS 15 9560 | Notebook | Yes | No | 11.8 | 1.12.1 | No |
 
 ## Lenovo
+
 | Model | Category | BootGuard | Manufactoring mode | ME version | Firmware version | coreboot support |
 |:------|:--------:|:---------:|:------------------:|:----------:|:----------------:|:----------------:|
 | T470p | Noteboook | Yes | No | 12.x | Unknown | No |
