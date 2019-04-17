@@ -1,6 +1,6 @@
 # BootGuard status
 ## What is this?
-TBD. I don't know.
+TBD.
 
 ## Okay. How can I check BootGuard status?
 1. Boot with `iomem=relaxed`.
