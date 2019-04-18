@@ -11,6 +11,12 @@ TBD.
 
 <input type="text" id="search" onkeyup="search()" style="width: 100%; font-size: 16px; padding: 6px 0px; border: 1px solid #ddd;" placeholder="Search for mainboards..">
 
+## Apple
+
+| Model | Category | BootGuard | Manufactoring mode | ME version | Firmware version | coreboot support |
+|:------|:--------:|:---------:|:------------------:|:----------:|:----------------:|:----------------:|
+| MacbookAir7,2 | Laptop | No | Yes | 10.x | macOS 10.13.6 | No |
+
 ## ASUS
 
 | Model | Category | BootGuard | Manufactoring mode | ME version | Firmware version | coreboot support |
