@@ -35,6 +35,12 @@ TBD.
 | GA-Z170X-Gaming 7 | Desktop | Yes | Yes | Unknown | F8 | No |
 | GA-Z170N-WIFI | Desktop | Yes | Yes | 11.0 | F6 (10/2015) | No |
 
+## GPD
+
+| Model | Category | BootGuard | Manufactoring mode | ME version | Firmware version | coreboot support |
+|:------|:--------:|:---------:|:------------------:|:----------:|:----------------:|:----------------:|
+| Pocket 2 | Notebook | Yes | Yes | 11.8 | 2.18.1263 | No |
+
 ## Dell
 
 | Model | Category | BootGuard | Manufactoring mode | ME version | Firmware version | coreboot support |
