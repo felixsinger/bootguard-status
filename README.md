@@ -17,21 +17,27 @@ TBD.
 |:------|:--------:|:---------:|:------------------:|:----------:|:----------------:|:----------------:|
 | MacbookAir7,2 | Notebook | No | Yes | 10.x | macOS 10.13.6 | No |
 
+## ASRock
+
+| Model | Category | BootGuard | Manufactoring mode | ME version | Firmware version | coreboot support |
+|:------|:--------:|:---------:|:------------------:|:----------:|:----------------:|:----------------:|
+| H110M-DVS | Desktop | No | No | 11.8 | Unknown | Yes |
+| Z370 Taichi | Desktop | Yes | No | Unknown | Unknown | No |
+
 ## ASUS
 
 | Model | Category | BootGuard | Manufactoring mode | ME version | Firmware version | coreboot support |
 |:------|:--------:|:---------:|:------------------:|:----------:|:----------------:|:----------------:|
 | STRIX X99 Gaming | Desktop | No | No | 9.x | Unknown | No |
 | Z170-A | Desktop | Yes | No | 11.x | Unknown | No |
-| PRIME Z370-A | Desktop | Yes | No | Unknown | Unknown | No |
 | Z170I PRO GAMING | Desktop | Yes | No | Unknown | Unknown | No |
+| PRIME Z370-A | Desktop | Yes | No | Unknown | Unknown | No |
 
-## ASRock
+## Dell
 
 | Model | Category | BootGuard | Manufactoring mode | ME version | Firmware version | coreboot support |
 |:------|:--------:|:---------:|:------------------:|:----------:|:----------------:|:----------------:|
-| Z370 Taichi | Desktop | Yes | No | Unknown | Unknown | No |
-| H110M-DVS | Desktop | No | No | 11.8 | Unknown | Yes |
+| XPS 15 9560 | Notebook | Yes | No | 11.8 | 1.12.1 | No |
 
 ## Gigabyte
 
@@ -46,12 +52,6 @@ TBD.
 | Model | Category | BootGuard | Manufactoring mode | ME version | Firmware version | coreboot support |
 |:------|:--------:|:---------:|:------------------:|:----------:|:----------------:|:----------------:|
 | Pocket 2 | Notebook | Yes | Yes | 11.8 | 2.18.1263 | No |
-
-## Dell
-
-| Model | Category | BootGuard | Manufactoring mode | ME version | Firmware version | coreboot support |
-|:------|:--------:|:---------:|:------------------:|:----------:|:----------------:|:----------------:|
-| XPS 15 9560 | Notebook | Yes | No | 11.8 | 1.12.1 | No |
 
 ## Lenovo
 
