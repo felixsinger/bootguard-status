@@ -15,7 +15,7 @@ TBD.
 
 | Model | Category | BootGuard | Manufactoring mode | ME version | Firmware version | coreboot support |
 |:------|:--------:|:---------:|:------------------:|:----------:|:----------------:|:----------------:|
-| MacbookAir7,2 | Laptop | No | Yes | 10.x | macOS 10.13.6 | No |
+| MacbookAir7,2 | Notebook | No | Yes | 10.x | macOS 10.13.6 | No |
 
 ## ASUS
 
