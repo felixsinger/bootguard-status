@@ -17,41 +17,41 @@ TBD.
 |:------|:--------:|:---------:|:------------------:|:----------:|:----------------:|:----------------:|
 | MacbookAir7,2 | Notebook | No | Yes | 10.x | macOS 10.13.6 | No |
 
+## ASRock
+
+| Model | Category | BootGuard | Manufactoring mode | ME version | Firmware version | coreboot support |
+|:------|:--------:|:---------:|:------------------:|:----------:|:----------------:|:----------------:|
+| H110M-DVS | Desktop | No | No | 11.8 | Unknown | Yes |
+| Z370 Taichi | Desktop | Yes | No | Unknown | Unknown | No |
+
 ## ASUS
 
 | Model | Category | BootGuard | Manufactoring mode | ME version | Firmware version | coreboot support |
 |:------|:--------:|:---------:|:------------------:|:----------:|:----------------:|:----------------:|
 | STRIX X99 Gaming | Desktop | No | No | 9.x | Unknown | No |
 | Z170-A | Desktop | Yes | No | 11.x | Unknown | No |
-| PRIME Z370-A | Desktop | Yes | No | Unknown | Unknown | No |
 | Z170I PRO GAMING | Desktop | Yes | No | Unknown | Unknown | No |
-
-## ASRock
-
-| Model | Category | BootGuard | Manufactoring mode | ME version | Firmware version | coreboot support |
-|:------|:--------:|:---------:|:------------------:|:----------:|:----------------:|:----------------:|
-| Z370 Taichi | Desktop | Yes | No | Unknown | Unknown | No |
-| H110M-DVS | Desktop | No | No | 11.8 | Unknown | Yes |
-
-## Gigabyte
-
-| Model | Category | BootGuard | Manufactoring mode | ME version | Firmware version | coreboot support |
-|:------|:--------:|:---------:|:------------------:|:----------:|:----------------:|:----------------:|
-| GA-Z97MX-Gaming 5 | Desktop | Yes | Yes | 9.1 | F4 (05/2014) | No |
-| GA-Z170X-Gaming 7 | Desktop | Yes | Yes | Unknown | F8 | No |
-| GA-Z170N-WIFI | Desktop | Yes | Yes | 11.0 | F6 (10/2015) | No |
-
-## GPD
-
-| Model | Category | BootGuard | Manufactoring mode | ME version | Firmware version | coreboot support |
-|:------|:--------:|:---------:|:------------------:|:----------:|:----------------:|:----------------:|
-| Pocket 2 | Notebook | Yes | Yes | 11.8 | 2.18.1263 | No |
+| PRIME Z370-A | Desktop | Yes | No | Unknown | Unknown | No |
 
 ## Dell
 
 | Model | Category | BootGuard | Manufactoring mode | ME version | Firmware version | coreboot support |
 |:------|:--------:|:---------:|:------------------:|:----------:|:----------------:|:----------------:|
 | XPS 15 9560 | Notebook | Yes | No | 11.8 | 1.12.1 | No |
+
+## Gigabyte
+
+| Model | Category | BootGuard | Manufactoring mode | ME version | Firmware version | coreboot support |
+|:------|:--------:|:---------:|:------------------:|:----------:|:----------------:|:----------------:|
+| GA-Z97MX-Gaming 5 | Desktop | Yes | Yes | 9.1 | F4 (05/2014) | No |
+| GA-Z170N-WIFI | Desktop | Yes | Yes | 11.0 | F6 (10/2015) | No |
+| GA-Z170X-Gaming 7 | Desktop | Yes | Yes | Unknown | F8 | No |
+
+## GPD
+
+| Model | Category | BootGuard | Manufactoring mode | ME version | Firmware version | coreboot support |
+|:------|:--------:|:---------:|:------------------:|:----------:|:----------------:|:----------------:|
+| Pocket 2 | Notebook | Yes | Yes | 11.8 | 2.18.1263 | No |
 
 ## Lenovo
 
