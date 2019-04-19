@@ -38,6 +38,7 @@ TBD.
 | Model | Category | BootGuard | Manufactoring mode | ME version | Firmware version | coreboot support |
 |:------|:--------:|:---------:|:------------------:|:----------:|:----------------:|:----------------:|
 | XPS 15 9560 | Notebook | Yes | No | 11.8 | 1.12.1 | No |
+| Latitude 5490 | Notebook | Yes | No | 11.8 | 1.4.2 | No |
 
 ## Gigabyte
 
