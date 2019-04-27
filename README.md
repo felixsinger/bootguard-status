@@ -37,7 +37,7 @@ TBD.
 
 | Model | Category | BootGuard | Manufactoring mode | ME version | Firmware version | coreboot support |
 |:------|:--------:|:---------:|:------------------:|:----------:|:----------------:|:----------------:|
-| N850EZ (Tuxedo Book BC1507) | Notebook | Yes | Yes | 12.0.6 | 1.07.08 | No |
+| N850EZ (Tuxedo Book BC1507) | Notebook | No(?) | No | 12.0.6 | 1.07.08 | No |
 
 ## Dell
 
