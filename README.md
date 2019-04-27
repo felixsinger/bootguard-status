@@ -33,6 +33,12 @@ TBD.
 | Z170I PRO GAMING | Desktop | Yes | No | Unknown | Unknown | No |
 | PRIME Z370-A | Desktop | Yes | No | Unknown | Unknown | No |
 
+## Clevo
+
+| Model | Category | BootGuard | Manufactoring mode | ME version | Firmware version | coreboot support |
+|:------|:--------:|:---------:|:------------------:|:----------:|:----------------:|:----------------:|
+| N850EZ (Tuxedo Book BC1507) | Notebook | Yes | Yes | 12.0.6 | 1.07.08 | No |
+
 ## Dell
 
 | Model | Category | BootGuard | Manufactoring mode | ME version | Firmware version | coreboot support |
