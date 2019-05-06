@@ -54,6 +54,7 @@ TBD.
 | GA-Z97MX-Gaming 5 | Desktop | Yes | Yes | 9.1 | F4 (05/2014) | No |
 | GA-Z170N-WIFI | Desktop | Yes | Yes | 11.0 | F6 (10/2015) | No |
 | GA-Z170X-Gaming 7 | Desktop | Yes | Yes | Unknown | F8 | No |
+| GA-SBCAP3450 | Desktop (Embedded) | Yes | Yes | TXE 3.0.10.1129 | F1 (06/2018) | No |
 
 ## GPD
 
