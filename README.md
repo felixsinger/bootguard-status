@@ -13,57 +13,57 @@ TBD.
 
 ## Apple
 
-| Model | Category | BootGuard | Manufactoring mode | ME version | Firmware version | coreboot support |
-|:------|:--------:|:---------:|:------------------:|:----------:|:----------------:|:----------------:|
-| MacbookAir7,2 | Notebook | No | Yes | 10.x | macOS 10.13.6 | No |
+| Model | Category | Generation | BootGuard | Manufactoring mode | ME version | Firmware version | coreboot support |
+|:------|:--------:|:----------:|:---------:|:------------------:|:----------:|:----------------:|:----------------:|
+| MacbookAir7,2 | Notebook | Broadwell | No | Yes | 10.x | macOS 10.13.6 | No |
 
 ## ASRock
 
-| Model | Category | BootGuard | Manufactoring mode | ME version | Firmware version | coreboot support |
-|:------|:--------:|:---------:|:------------------:|:----------:|:----------------:|:----------------:|
-| H110M-DVS | Desktop | No | No | 11.8 | Unknown | Yes |
-| Z370 Taichi | Desktop | Yes | No | Unknown | Unknown | No |
+| Model | Category | Generation | BootGuard | Manufactoring mode | ME version | Firmware version | coreboot support |
+|:------|:--------:|:----------:|:---------:|:------------------:|:----------:|:----------------:|:----------------:|
+| H110M-DVS | Desktop | Skylake  | No | No | 11.8 | Unknown | Yes |
+| Z370 Taichi | Desktop | Whiskey Lake | Yes | No | Unknown | Unknown | No |
 
 ## ASUS
 
-| Model | Category | BootGuard | Manufactoring mode | ME version | Firmware version | coreboot support |
-|:------|:--------:|:---------:|:------------------:|:----------:|:----------------:|:----------------:|
-| STRIX X99 Gaming | Desktop | No | No | 9.x | Unknown | No |
-| Z170-A | Desktop | Yes | No | 11.x | Unknown | No |
-| Z170I PRO GAMING | Desktop | Yes | No | Unknown | Unknown | No |
-| PRIME Z370-A | Desktop | Yes | No | Unknown | Unknown | No |
+| Model | Category | Generation | BootGuard | Manufactoring mode | ME version | Firmware version | coreboot support |
+|:------|:--------:|:----------:|:---------:|:------------------:|:----------:|:----------------:|:----------------:|
+| STRIX X99 Gaming | Desktop | Haswell/Broadwell | No | No | 9.x | Unknown | No |
+| Z170-A | Desktop | Skylake | Yes | No | 11.x | Unknown | No |
+| Z170I PRO GAMING | Desktop | Skylake | Yes | No | Unknown | Unknown | No |
+| PRIME Z370-A | Desktop | Whiskey Lake | Yes | No | Unknown | Unknown | No |
 
 ## Clevo
 
-| Model | Category | BootGuard | Manufactoring mode | ME version | Firmware version | coreboot support |
+| Model | Category | Generation | BootGuard | Manufactoring mode | ME version | Firmware version | coreboot support |
 |:------|:--------:|:---------:|:------------------:|:----------:|:----------------:|:----------------:|
-| N850EZ (Tuxedo Book BC1507) | Notebook | No(?) | No | 12.0.6 | 1.07.08 | No |
+| N850EZ (Tuxedo Book BC1507) | Notebook | Coffee Lake | No(?) | No | 12.0.6 | 1.07.08 | No |
 
 ## Dell
 
-| Model | Category | BootGuard | Manufactoring mode | ME version | Firmware version | coreboot support |
+| Model | Category | Generation | BootGuard | Manufactoring mode | ME version | Firmware version | coreboot support |
 |:------|:--------:|:---------:|:------------------:|:----------:|:----------------:|:----------------:|
-| XPS 13 9350 | Notebook | Yes | No | 11.0 | 1.2.3 | No |
-| XPS 15 9560 | Notebook | Yes | No | 11.8 | 1.12.1 | No |
-| Latitude 5490 | Notebook | Yes | No | 11.8 | 1.4.2 | No |
+| XPS 13 9350 | Notebook | Skylake | Yes | No | 11.0 | 1.2.3 | No |
+| XPS 15 9560 | Notebook | Skylake |Yes | No | 11.8 | 1.12.1 | No |
+| Latitude 5490 | Notebook | Kaby Lake R | Yes | No | 11.8 | 1.4.2 | No |
 
 ## Gigabyte
 
-| Model | Category | BootGuard | Manufactoring mode | ME version | Firmware version | coreboot support |
+| Model | Category | Generation | BootGuard | Manufactoring mode | ME version | Firmware version | coreboot support |
 |:------|:--------:|:---------:|:------------------:|:----------:|:----------------:|:----------------:|
-| GA-Z97MX-Gaming 5 | Desktop | Yes | Yes | 9.1 | F4 (05/2014) | No |
-| GA-Z170N-WIFI | Desktop | Yes | Yes | 11.0 | F6 (10/2015) | No |
-| GA-Z170X-Gaming 7 | Desktop | Yes | Yes | Unknown | F8 | No |
-| GA-SBCAP3450 | Desktop (Embedded) | Yes | Yes | TXE 3.0.10.1129 | F1 (06/2018) | No |
+| GA-Z97MX-Gaming 5 | Desktop | Haswell  | Yes | Yes | 9.1 | F4 (05/2014) | No |
+| GA-Z170N-WIFI | Desktop | Skylake  | Yes | Yes | 11.0 | F6 (10/2015) | No |
+| GA-Z170X-Gaming 7 | Desktop | Skylake  | Yes | Yes | Unknown | F8 | No |
+| GA-SBCAP3450 | Desktop (Embedded) | Apollo Lake  | Yes | Yes | TXE 3.0.10.1129 | F1 (06/2018) | No |
 
 ## GPD
 
-| Model | Category | BootGuard | Manufactoring mode | ME version | Firmware version | coreboot support |
-|:------|:--------:|:---------:|:------------------:|:----------:|:----------------:|:----------------:|
-| Pocket 2 | Notebook | Yes | Yes | 11.8 | 2.18.1263 | No |
+| Model | Category | Generation | BootGuard | Manufactoring mode | ME version | Firmware version | coreboot support |
+|:------|:--------:|:----------:|:---------:|:------------------:|:----------:|:----------------:|:----------------:|
+| Pocket 2 | Notebook | Amber Lake Y | Yes | Yes | 11.8 | 2.18.1263 | No |
 
 ## Lenovo
 
-| Model | Category | BootGuard | Manufactoring mode | ME version | Firmware version | coreboot support |
-|:------|:--------:|:---------:|:------------------:|:----------:|:----------------:|:----------------:|
-| T470p | Noteboook | Yes | No | 12.x | Unknown | No |
+| Model | Category | Generation | BootGuard | Manufactoring mode | ME version | Firmware version | coreboot support |
+|:------|:--------:|:----------:|:---------:|:------------------:|:----------:|:----------------:|:----------------:|
+| T470p | Noteboook | Kaby Lake  | Yes | No | 12.x | Unknown | No |
