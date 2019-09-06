@@ -36,13 +36,13 @@ TBD.
 ## Clevo
 
 | Model | Category | Generation | BootGuard | Manufactoring mode | ME version | Firmware version | coreboot support |
-|:------|:--------:|:---------:|:------------------:|:----------:|:----------------:|:----------------:|
+|:------|:--------:|:----------:|:---------:|:------------------:|:----------:|:----------------:|:----------------:|
 | N850EZ (Tuxedo Book BC1507) | Notebook | Coffee Lake | No(?) | No | 12.0.6 | 1.07.08 | No |
 
 ## Dell
 
 | Model | Category | Generation | BootGuard | Manufactoring mode | ME version | Firmware version | coreboot support |
-|:------|:--------:|:---------:|:------------------:|:----------:|:----------------:|:----------------:|
+|:------|:--------:|:----------:|:---------:|:------------------:|:----------:|:----------------:|:----------------:|
 | XPS 13 9350 | Notebook | Skylake | Yes | No | 11.0 | 1.2.3 | No |
 | XPS 15 9560 | Notebook | Skylake |Yes | No | 11.8 | 1.12.1 | No |
 | Latitude 5490 | Notebook | Kaby Lake R | Yes | No | 11.8 | 1.4.2 | No |
@@ -50,7 +50,7 @@ TBD.
 ## Gigabyte
 
 | Model | Category | Generation | BootGuard | Manufactoring mode | ME version | Firmware version | coreboot support |
-|:------|:--------:|:---------:|:------------------:|:----------:|:----------------:|:----------------:|
+|:------|:--------:|:----------:|:---------:|:------------------:|:----------:|:----------------:|:----------------:|
 | GA-Z97MX-Gaming 5 | Desktop | Haswell  | Yes | Yes | 9.1 | F4 (05/2014) | No |
 | GA-Z170N-WIFI | Desktop | Skylake  | Yes | Yes | 11.0 | F6 (10/2015) | No |
 | GA-Z170X-Gaming 7 | Desktop | Skylake  | Yes | Yes | Unknown | F8 | No |
