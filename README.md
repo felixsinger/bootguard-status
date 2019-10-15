@@ -66,4 +66,5 @@ TBD.
 
 | Model | Category | BootGuard | Manufactoring mode | ME version | Firmware version | coreboot support |
 |:------|:--------:|:---------:|:------------------:|:----------:|:----------------:|:----------------:|
+| T440p | Noteboook | No(?) | No | 9.1 | 2.52 (02/2019) | Yes |
 | T470p | Noteboook | Yes | No | 12.x | Unknown | No |
