@@ -67,3 +67,15 @@ TBD.
 | Model | Category | BootGuard | Manufactoring mode | ME version | Firmware version | coreboot support |
 |:------|:--------:|:---------:|:------------------:|:----------:|:----------------:|:----------------:|
 | T470p | Noteboook | Yes | No | 12.x | Unknown | No |
+
+## MSI
+
+| Model | Category | BootGuard | Manufactoring mode | ME version | Firmware version | coreboot support |
+|:------|:--------:|:---------:|:------------------:|:----------:|:----------------:|:----------------:|
+| PRO Z690-A DDR4 (WIFI) | Desktop | No | Yes | 16.0 | Any | Yes |
+
+## Protectli
+
+| Model | Category | BootGuard | Manufactoring mode | ME version | Firmware version | coreboot support |
+|:------|:--------:|:---------:|:------------------:|:----------:|:----------------:|:----------------:|
+| FW6   | SBC      | No        | Yes                | 11.8       | Any              | Yes              |
