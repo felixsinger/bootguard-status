@@ -66,6 +66,7 @@ TBD.
 
 | Model | Category | BootGuard | Manufactoring mode | ME version | Firmware version | coreboot support |
 |:------|:--------:|:---------:|:------------------:|:----------:|:----------------:|:----------------:|
+| M900 | Desktop | No | No | 11.0 | FWKTBFA (2022/06/23) | In progress |
 | T470 | Noteboook | Yes | No | 11.8 | Unknown | No |
 | T470p | Noteboook | Yes | No | 12.x | Unknown | No |
 | X1 Carbon Gen 4 | Noteboook | Yes | No | Unknown | Unknown | No |
