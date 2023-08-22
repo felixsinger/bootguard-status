@@ -68,6 +68,7 @@ TBD.
 |:------|:--------:|:---------:|:------------------:|:----------:|:----------------:|:----------------:|
 | T470 | Noteboook | Yes | No | 11.8 | Unknown | No |
 | T470p | Noteboook | Yes | No | 12.x | Unknown | No |
+| X1 Carbon Gen 4 | Noteboook | Yes | No | Unknown | Unknown | No |
 
 ## MSI
 
