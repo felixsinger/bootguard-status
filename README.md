@@ -66,6 +66,7 @@ TBD.
 
 | Model | Category | BootGuard | Manufactoring mode | ME version | Firmware version | coreboot support |
 |:------|:--------:|:---------:|:------------------:|:----------:|:----------------:|:----------------:|
+| T470 | Noteboook | Yes | No | 11.8 | Unknown | No |
 | T470p | Noteboook | Yes | No | 12.x | Unknown | No |
 
 ## MSI
