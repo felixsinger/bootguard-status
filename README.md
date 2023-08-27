@@ -46,6 +46,7 @@ TBD.
 | XPS 13 9350 | Notebook | Yes | No | 11.0 | 1.2.3 | No |
 | XPS 15 9560 | Notebook | Yes | No | 11.8 | 1.12.1 | No |
 | Latitude 5490 | Notebook | Yes | No | 11.8 | 1.4.2 | No |
+| Precision M6800 | Notebook | No | Yes | Unknown | A26 | No |
 
 ## Gigabyte
 
