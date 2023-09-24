@@ -87,26 +87,34 @@ TBD.
 
 ## Supermicro
 
-| Model        | Category | BootGuard | Manufactoring mode | Firmware version | coreboot support |
-|:-------------|:--------:|:---------:|:------------------:|:----------------:|:----------------:|
-| X11SAE       | Server   | No        | Unknown            | Unknown          | No               |
-| X11SAE-F     | Server   | No        | Unknown            | Unknown          | No               |
-| X11SAE-M     | Server   | No        | Unknown            | Unknown          | No               |
-| X11SAT       | Server   | No        | Unknown            | Unknown          | No               |
-| X11SAT-F     | Server   | No        | Unknown            | Unknown          | No               |
-| X11SPA-T     | Server   | No        | Unknown            | Unknown          | No               |
-| X11SRA       | Server   | No        | Unknown            | Unknown          | No               |
-| X11SRA-F     | Server   | No        | Unknown            | Unknown          | No               |
-| X11SRA-RF    | Server   | No        | Unknown            | Unknown          | No               |
-| X11SRi-IF    | Server   | No        | Unknown            | Unknown          | No               |
-| X11SRL-F     | Server   | No        | Unknown            | Unknown          | No               |
-| X11SRM-F     | Server   | No        | Unknown            | Unknown          | No               |
-| X11SRM-VF    | Server   | No        | Unknown            | Unknown          | No               |
-| X11SSQ       | Server   | No        | Unknown            | Unknown          | No               |
-| X11SSQ-L     | Server   | No        | Unknown            | Unknown          | No               |
-| X11SSV-LVDS  | Server   | No        | Unknown            | Unknown          | No               |
-| X11SSV-M4    | Server   | No        | Unknown            | Unknown          | No               |
-| X11SSV-Q     | Server   | No        | Unknown            | Unknown          | No               |
-| X11SSZ-F     | Server   | No        | Unknown            | Unknown          | No               |
-| X11SSZ-QF    | Server   | No        | Unknown            | Unknown          | No               |
-| X11SSZ-TLN4F | Server   | No        | Unknown            | Unknown          | No               |
+| Model         | Category | BootGuard | Manufactoring mode | Firmware version | coreboot support |
+|:--------------|:--------:|:---------:|:------------------:|:----------------:|:----------------:|
+| X11SAE        | Server   | No        | Unknown            | Unknown          | No               |
+| X11SAE-F      | Server   | No        | Unknown            | Unknown          | No               |
+| X11SAE-M      | Server   | No        | Unknown            | Unknown          | No               |
+| X11SAT        | Server   | No        | Unknown            | Unknown          | No               |
+| X11SAT-F      | Server   | No        | Unknown            | Unknown          | No               |
+| X11SPA-T      | Server   | No        | Unknown            | Unknown          | No               |
+| X11SRA        | Server   | No        | Unknown            | Unknown          | No               |
+| X11SRA-F      | Server   | No        | Unknown            | Unknown          | No               |
+| X11SRA-RF     | Server   | No        | Unknown            | Unknown          | No               |
+| X11SRi-IF     | Server   | No        | Unknown            | Unknown          | No               |
+| X11SRL-F      | Server   | No        | Unknown            | Unknown          | No               |
+| X11SRM-F      | Server   | No        | Unknown            | Unknown          | No               |
+| X11SRM-VF     | Server   | No        | Unknown            | Unknown          | No               |
+| X11SSN-H      | Server   | No        | Unknown            | Unknown          | No               |
+| X11SSN-H-001  | Server   | No        | Unknown            | Unknown          | No               |
+| X11SSN-H-VDC  | Server   | No        | Unknown            | Unknown          | No               |
+| X11SSN-H-WOHS | Server   | No        | Unknown            | Unknown          | No               |
+| X11SSN-L      | Server   | No        | Unknown            | Unknown          | No               |
+| X11SSN-L-001  | Server   | No        | Unknown            | Unknown          | No               |
+| X11SSN-L-VDC  | Server   | No        | Unknown            | Unknown          | No               |
+| X11SSN-L-WOHS | Server   | No        | Unknown            | Unknown          | No               |
+| X11SSQ        | Server   | No        | Unknown            | Unknown          | No               |
+| X11SSQ-L      | Server   | No        | Unknown            | Unknown          | No               |
+| X11SSV-LVDS   | Server   | No        | Unknown            | Unknown          | No               |
+| X11SSV-M4     | Server   | No        | Unknown            | Unknown          | No               |
+| X11SSV-Q      | Server   | No        | Unknown            | Unknown          | No               |
+| X11SSZ-F      | Server   | No        | Unknown            | Unknown          | No               |
+| X11SSZ-QF     | Server   | No        | Unknown            | Unknown          | No               |
+| X11SSZ-TLN4F  | Server   | No        | Unknown            | Unknown          | No               |
