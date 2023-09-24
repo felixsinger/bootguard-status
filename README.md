@@ -102,6 +102,11 @@ TBD.
 | X11SRL-F      | Server   | No        | Unknown            | Unknown          | No               |
 | X11SRM-F      | Server   | No        | Unknown            | Unknown          | No               |
 | X11SRM-VF     | Server   | No        | Unknown            | Unknown          | No               |
+| X11SSM-F      | Server   | No        | Unknown            | Unknown          | Yes              |
+| X11SSN-E      | Server   | No        | Unknown            | Unknown          | No               |
+| X11SSN-E-001  | Server   | No        | Unknown            | Unknown          | No               |
+| X11SSN-E-VDC  | Server   | No        | Unknown            | Unknown          | No               |
+| X11SSN-E-WOHS | Server   | No        | Unknown            | Unknown          | No               |
 | X11SSN-H      | Server   | No        | Unknown            | Unknown          | No               |
 | X11SSN-H-001  | Server   | No        | Unknown            | Unknown          | No               |
 | X11SSN-H-VDC  | Server   | No        | Unknown            | Unknown          | No               |
