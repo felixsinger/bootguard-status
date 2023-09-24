@@ -13,128 +13,128 @@ TBD.
 
 ## Apple
 
-| Model         | Category | BootGuard | Manufactoring mode | Firmware version | coreboot support |
-|:--------------|:--------:|:---------:|:------------------:|:----------------:|:----------------:|
-| MacbookAir7,2 | Notebook | No        | Yes                | macOS 10.13.6    | No               |
+| Model         | Category | BootGuard | Manufactoring mode | coreboot support |
+|:--------------|:--------:|:---------:|:------------------:|:----------------:|
+| MacbookAir7,2 | Notebook | No        | Yes                | No               |
 
 ## ASRock
 
-| Model       | Category | BootGuard | Manufactoring mode | Firmware version | coreboot support |
-|:------------|:--------:|:---------:|:------------------:|:----------------:|:----------------:|
-| H110M-DVS   | Desktop  | No        | No                 | Unknown          | Yes              |
-| Z370 Taichi | Desktop  | Yes       | No                 | Unknown          | No               |
+| Model       | Category | BootGuard | Manufactoring mode | coreboot support |
+|:------------|:--------:|:---------:|:------------------:|:----------------:|
+| H110M-DVS   | Desktop  | No        | No                 | Yes              |
+| Z370 Taichi | Desktop  | Yes       | No                 | No               |
 
 ## ASUS
 
-| Model                  | Category | BootGuard | Manufactoring mode | Firmware version | coreboot support |
-|:-----------------------|:--------:|:---------:|:------------------:|:----------------:|:----------------:|
-| STRIX X99 Gaming       | Desktop  | No        | No                 | Unknown          | No               |
-| Z170-A                 | Desktop  | No        | No                 | Unknown          | No               |
-| Z170I PRO GAMING       | Desktop  | No        | No                 | Unknown          | No               |
-| PRIME Z370-A           | Desktop  | Yes       | No                 | Unknown          | No               |
-| SABERTOOTH Z170 MARK 1 | Desktop  | No        | Unknown            | Unknown          | No               |
-| SABERTOOTH Z170 S      | Desktop  | No        | Unknown            | Unknown          | No               |
-| Z170 PRO GAMING        | Desktop  | No        | Unknown            | Unknown          | No               |
-| Z170 PRO GAMING/AURA   | Desktop  | No        | Unknown            | Unknown          | No               |
-| Z170-AR                | Desktop  | No        | Unknown            | Unknown          | No               |
-| Z170-DELUXE            | Desktop  | No        | Unknown            | Unknown          | No               |
-| Z170-E                 | Desktop  | No        | Unknown            | Unknown          | No               |
-| Z170-K                 | Desktop  | No        | Unknown            | Unknown          | No               |
-| Z170M-E D3             | Desktop  | No        | Unknown            | Unknown          | No               |
-| Z170M-PLUS             | Desktop  | No        | Unknown            | Unknown          | No               |
-| Z170M-PLUS/BR          | Desktop  | No        | Unknown            | Unknown          | No               |
-| Z170-P D3              | Desktop  | No        | Unknown            | Unknown          | No               |
-| Z170-PREMIUM           | Desktop  | No        | Unknown            | Unknown          | No               |
-| Z170-PRO               | Desktop  | No        | Unknown            | Unknown          | No               |
-| Z170-WS                | Desktop  | No        | Unknown            | Unknown          | No               |
+| Model                  | Category | BootGuard | Manufactoring mode | coreboot support |
+|:-----------------------|:--------:|:---------:|:------------------:|:----------------:|
+| STRIX X99 Gaming       | Desktop  | No        | No                 | No               |
+| Z170-A                 | Desktop  | No        | No                 | No               |
+| Z170I PRO GAMING       | Desktop  | No        | No                 | No               |
+| PRIME Z370-A           | Desktop  | Yes       | No                 | No               |
+| SABERTOOTH Z170 MARK 1 | Desktop  | No        | Unknown            | No               |
+| SABERTOOTH Z170 S      | Desktop  | No        | Unknown            | No               |
+| Z170 PRO GAMING        | Desktop  | No        | Unknown            | No               |
+| Z170 PRO GAMING/AURA   | Desktop  | No        | Unknown            | No               |
+| Z170-AR                | Desktop  | No        | Unknown            | No               |
+| Z170-DELUXE            | Desktop  | No        | Unknown            | No               |
+| Z170-E                 | Desktop  | No        | Unknown            | No               |
+| Z170-K                 | Desktop  | No        | Unknown            | No               |
+| Z170M-E D3             | Desktop  | No        | Unknown            | No               |
+| Z170M-PLUS             | Desktop  | No        | Unknown            | No               |
+| Z170M-PLUS/BR          | Desktop  | No        | Unknown            | No               |
+| Z170-P D3              | Desktop  | No        | Unknown            | No               |
+| Z170-PREMIUM           | Desktop  | No        | Unknown            | No               |
+| Z170-PRO               | Desktop  | No        | Unknown            | No               |
+| Z170-WS                | Desktop  | No        | Unknown            | No               |
 
 ## Clevo
 
-| Model                       | Category | BootGuard | Manufactoring mode | Firmware version | coreboot support |
-|:----------------------------|:--------:|:---------:|:------------------:|:----------------:|:----------------:|
-| N850EZ (Tuxedo Book BC1507) | Notebook | No(?)     | No                 | 1.07.08          | No               |
+| Model                       | Category | BootGuard | Manufactoring mode | coreboot support |
+|:----------------------------|:--------:|:---------:|:------------------:|:----------------:|
+| N850EZ (Tuxedo Book BC1507) | Notebook | No(?)     | No                 | No               |
 
 ## Dell
 
-| Model           | Category | BootGuard | Manufactoring mode | Firmware version | coreboot support |
-|:----------------|:--------:|:---------:|:------------------:|:----------------:|:----------------:|
-| XPS 13 9350     | Notebook | Yes       | No                 | 1.2.3            | No               |
-| XPS 15 9560     | Notebook | Yes       | No                 | 1.12.1           | No               |
-| Latitude 5490   | Notebook | Yes       | No                 | 1.4.2            | No               |
-| Precision M6800 | Notebook | No        | Yes                | A26              | No               |
+| Model           | Category | BootGuard | Manufactoring mode | coreboot support |
+|:----------------|:--------:|:---------:|:------------------:|:----------------:|
+| XPS 13 9350     | Notebook | Yes       | No                 | No               |
+| XPS 15 9560     | Notebook | Yes       | No                 | No               |
+| Latitude 5490   | Notebook | Yes       | No                 | No               |
+| Precision M6800 | Notebook | No        | Yes                | No               |
 
 ## Gigabyte
 
-| Model             | Category           | BootGuard | Manufactoring mode | Firmware version | coreboot support |
-|:------------------|:------------------:|:---------:|:------------------:|:----------------:|:----------------:|
-| GA-Z97MX-Gaming 5 | Desktop            | Yes       | Yes                | F4 (05/2014)     | No               |
-| GA-Z170N-WIFI     | Desktop            | Yes       | Yes                | F6 (10/2015)     | No               |
-| GA-Z170X-Gaming 7 | Desktop            | Yes       | Yes                | F8               | No               |
-| GA-SBCAP3450      | Desktop (Embedded) | Yes       | Yes                | F1 (06/2018)     | No               |
+| Model             | Category           | BootGuard | Manufactoring mode | coreboot support |
+|:------------------|:------------------:|:---------:|:------------------:|:----------------:|
+| GA-Z97MX-Gaming 5 | Desktop            | Yes       | Yes                | No               |
+| GA-Z170N-WIFI     | Desktop            | Yes       | Yes                | No               |
+| GA-Z170X-Gaming 7 | Desktop            | Yes       | Yes                | No               |
+| GA-SBCAP3450      | Desktop (Embedded) | Yes       | Yes                | No               |
 
 ## GPD
 
-| Model    | Category | BootGuard | Manufactoring mode | Firmware version | coreboot support |
-|:---------|:--------:|:---------:|:------------------:|:----------------:|:----------------:|
-| Pocket 2 | Notebook | Yes       | Yes                | 2.18.1263        | No               |
+| Model    | Category | BootGuard | Manufactoring mode | coreboot support |
+|:---------|:--------:|:---------:|:------------------:|:----------------:|
+| Pocket 2 | Notebook | Yes       | Yes                | No               |
 
 ## Lenovo
 
-| Model           | Category  | BootGuard | Manufactoring mode | Firmware version     | coreboot support |
-|:----------------|:---------:|:---------:|:------------------:|:--------------------:|:----------------:|
-| M900            | Desktop   | No        | No                 | FWKTBFA (2022/06/23) | In progress      |
-| T470            | Noteboook | Yes       | No                 | Unknown              | No               |
-| T470p           | Noteboook | Yes       | No                 | Unknown              | No               |
-| X1 Carbon Gen 4 | Noteboook | Yes       | No                 | Unknown              | No               |
+| Model           | Category  | BootGuard | Manufactoring mode | coreboot support |
+|:----------------|:---------:|:---------:|:------------------:|:----------------:|
+| M900            | Desktop   | No        | No                 | In progress      |
+| T470            | Noteboook | Yes       | No                 | No               |
+| T470p           | Noteboook | Yes       | No                 | No               |
+| X1 Carbon Gen 4 | Noteboook | Yes       | No                 | No               |
 
 ## MSI
 
-| Model                  | Category | BootGuard | Manufactoring mode | Firmware version | coreboot support |
-|:-----------------------|:--------:|:---------:|:------------------:|:----------------:|:----------------:|
-| PRO Z690-A DDR4 (WIFI) | Desktop  | No        | Yes                | Any              | Yes              |
+| Model                  | Category | BootGuard | Manufactoring mode | coreboot support |
+|:-----------------------|:--------:|:---------:|:------------------:|:----------------:|
+| PRO Z690-A DDR4 (WIFI) | Desktop  | No        | Yes                | Yes              |
 
 ## Protectli
 
-| Model | Category | BootGuard | Manufactoring mode | Firmware version | coreboot support |
-|:------|:--------:|:---------:|:------------------:|:----------------:|:----------------:|
-| FW6   | SBC      | No        | Yes                | Any              | Yes              |
+| Model | Category | BootGuard | Manufactoring mode | coreboot support |
+|:------|:--------:|:---------:|:------------------:|:----------------:|
+| FW6   | SBC      | No        | Yes                | Yes              |
 
 
 ## Supermicro
 
-| Model         | Category | BootGuard | Manufactoring mode | Firmware version | coreboot support |
-|:--------------|:--------:|:---------:|:------------------:|:----------------:|:----------------:|
-| X11SAE        | Server   | No        | Unknown            | Unknown          | No               |
-| X11SAE-F      | Server   | No        | Unknown            | Unknown          | No               |
-| X11SAE-M      | Server   | No        | Unknown            | Unknown          | No               |
-| X11SAT        | Server   | No        | Unknown            | Unknown          | No               |
-| X11SAT-F      | Server   | No        | Unknown            | Unknown          | No               |
-| X11SPA-T      | Server   | No        | Unknown            | Unknown          | No               |
-| X11SRA        | Server   | No        | Unknown            | Unknown          | No               |
-| X11SRA-F      | Server   | No        | Unknown            | Unknown          | No               |
-| X11SRA-RF     | Server   | No        | Unknown            | Unknown          | No               |
-| X11SRi-IF     | Server   | No        | Unknown            | Unknown          | No               |
-| X11SRL-F      | Server   | No        | Unknown            | Unknown          | No               |
-| X11SRM-F      | Server   | No        | Unknown            | Unknown          | No               |
-| X11SRM-VF     | Server   | No        | Unknown            | Unknown          | No               |
-| X11SSM-F      | Server   | No        | Unknown            | Unknown          | Yes              |
-| X11SSN-E      | Server   | No        | Unknown            | Unknown          | No               |
-| X11SSN-E-001  | Server   | No        | Unknown            | Unknown          | No               |
-| X11SSN-E-VDC  | Server   | No        | Unknown            | Unknown          | No               |
-| X11SSN-E-WOHS | Server   | No        | Unknown            | Unknown          | No               |
-| X11SSN-H      | Server   | No        | Unknown            | Unknown          | No               |
-| X11SSN-H-001  | Server   | No        | Unknown            | Unknown          | No               |
-| X11SSN-H-VDC  | Server   | No        | Unknown            | Unknown          | No               |
-| X11SSN-H-WOHS | Server   | No        | Unknown            | Unknown          | No               |
-| X11SSN-L      | Server   | No        | Unknown            | Unknown          | No               |
-| X11SSN-L-001  | Server   | No        | Unknown            | Unknown          | No               |
-| X11SSN-L-VDC  | Server   | No        | Unknown            | Unknown          | No               |
-| X11SSN-L-WOHS | Server   | No        | Unknown            | Unknown          | No               |
-| X11SSQ        | Server   | No        | Unknown            | Unknown          | No               |
-| X11SSQ-L      | Server   | No        | Unknown            | Unknown          | No               |
-| X11SSV-LVDS   | Server   | No        | Unknown            | Unknown          | No               |
-| X11SSV-M4     | Server   | No        | Unknown            | Unknown          | No               |
-| X11SSV-Q      | Server   | No        | Unknown            | Unknown          | No               |
-| X11SSZ-F      | Server   | No        | Unknown            | Unknown          | No               |
-| X11SSZ-QF     | Server   | No        | Unknown            | Unknown          | No               |
-| X11SSZ-TLN4F  | Server   | No        | Unknown            | Unknown          | No               |
+| Model         | Category | BootGuard | Manufactoring mode | coreboot support |
+|:--------------|:--------:|:---------:|:------------------:|:----------------:|
+| X11SAE        | Server   | No        | Unknown            | No               |
+| X11SAE-F      | Server   | No        | Unknown            | No               |
+| X11SAE-M      | Server   | No        | Unknown            | No               |
+| X11SAT        | Server   | No        | Unknown            | No               |
+| X11SAT-F      | Server   | No        | Unknown            | No               |
+| X11SPA-T      | Server   | No        | Unknown            | No               |
+| X11SRA        | Server   | No        | Unknown            | No               |
+| X11SRA-F      | Server   | No        | Unknown            | No               |
+| X11SRA-RF     | Server   | No        | Unknown            | No               |
+| X11SRi-IF     | Server   | No        | Unknown            | No               |
+| X11SRL-F      | Server   | No        | Unknown            | No               |
+| X11SRM-F      | Server   | No        | Unknown            | No               |
+| X11SRM-VF     | Server   | No        | Unknown            | No               |
+| X11SSM-F      | Server   | No        | Unknown            | Yes              |
+| X11SSN-E      | Server   | No        | Unknown            | No               |
+| X11SSN-E-001  | Server   | No        | Unknown            | No               |
+| X11SSN-E-VDC  | Server   | No        | Unknown            | No               |
+| X11SSN-E-WOHS | Server   | No        | Unknown            | No               |
+| X11SSN-H      | Server   | No        | Unknown            | No               |
+| X11SSN-H-001  | Server   | No        | Unknown            | No               |
+| X11SSN-H-VDC  | Server   | No        | Unknown            | No               |
+| X11SSN-H-WOHS | Server   | No        | Unknown            | No               |
+| X11SSN-L      | Server   | No        | Unknown            | No               |
+| X11SSN-L-001  | Server   | No        | Unknown            | No               |
+| X11SSN-L-VDC  | Server   | No        | Unknown            | No               |
+| X11SSN-L-WOHS | Server   | No        | Unknown            | No               |
+| X11SSQ        | Server   | No        | Unknown            | No               |
+| X11SSQ-L      | Server   | No        | Unknown            | No               |
+| X11SSV-LVDS   | Server   | No        | Unknown            | No               |
+| X11SSV-M4     | Server   | No        | Unknown            | No               |
+| X11SSV-Q      | Server   | No        | Unknown            | No               |
+| X11SSZ-F      | Server   | No        | Unknown            | No               |
+| X11SSZ-QF     | Server   | No        | Unknown            | No               |
+| X11SSZ-TLN4F  | Server   | No        | Unknown            | No               |
