@@ -30,7 +30,7 @@ TBD.
 |:-----------------|:--------:|:---------:|:------------------:|:----------------:|:----------------:|
 | STRIX X99 Gaming | Desktop  | No        | No                 | Unknown          | No               |
 | Z170-A           | Desktop  | No        | No                 | Unknown          | No               |
-| Z170I PRO GAMING | Desktop  | Yes       | No                 | Unknown          | No               |
+| Z170I PRO GAMING | Desktop  | No        | No                 | Unknown          | No               |
 | PRIME Z370-A     | Desktop  | Yes       | No                 | Unknown          | No               |
 
 ## Clevo
