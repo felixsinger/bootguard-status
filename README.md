@@ -83,3 +83,22 @@ TBD.
 | Model | Category | BootGuard | Manufactoring mode | Firmware version | coreboot support |
 |:------|:--------:|:---------:|:------------------:|:----------------:|:----------------:|
 | FW6   | SBC      | No        | Yes                | Any              | Yes              |
+
+
+## Supermicro
+
+| Model     | Category | BootGuard | Manufactoring mode | Firmware version | coreboot support |
+|:----------|:--------:|:---------:|:------------------:|:----------------:|:----------------:|
+| X11SAE    | Server   | No        | Unknown            | Unknown          | No               |
+| X11SAE-F  | Server   | No        | Unknown            | Unknown          | No               |
+| X11SAE-M  | Server   | No        | Unknown            | Unknown          | No               |
+| X11SAT    | Server   | No        | Unknown            | Unknown          | No               |
+| X11SAT-F  | Server   | No        | Unknown            | Unknown          | No               |
+| X11SPA-T  | Server   | No        | Unknown            | Unknown          | No               |
+| X11SRA    | Server   | No        | Unknown            | Unknown          | No               |
+| X11SRA-F  | Server   | No        | Unknown            | Unknown          | No               |
+| X11SRA-RF | Server   | No        | Unknown            | Unknown          | No               |
+| X11SRi-IF | Server   | No        | Unknown            | Unknown          | No               |
+| X11SRL-F  | Server   | No        | Unknown            | Unknown          | No               |
+| X11SRM-F  | Server   | No        | Unknown            | Unknown          | No               |
+| X11SRM-VF | Server   | No        | Unknown            | Unknown          | No               |
