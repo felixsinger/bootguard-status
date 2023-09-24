@@ -26,12 +26,27 @@ TBD.
 
 ## ASUS
 
-| Model            | Category | BootGuard | Manufactoring mode | Firmware version | coreboot support |
-|:-----------------|:--------:|:---------:|:------------------:|:----------------:|:----------------:|
-| STRIX X99 Gaming | Desktop  | No        | No                 | Unknown          | No               |
-| Z170-A           | Desktop  | No        | No                 | Unknown          | No               |
-| Z170I PRO GAMING | Desktop  | No        | No                 | Unknown          | No               |
-| PRIME Z370-A     | Desktop  | Yes       | No                 | Unknown          | No               |
+| Model                  | Category | BootGuard | Manufactoring mode | Firmware version | coreboot support |
+|:-----------------------|:--------:|:---------:|:------------------:|:----------------:|:----------------:|
+| STRIX X99 Gaming       | Desktop  | No        | No                 | Unknown          | No               |
+| Z170-A                 | Desktop  | No        | No                 | Unknown          | No               |
+| Z170I PRO GAMING       | Desktop  | No        | No                 | Unknown          | No               |
+| PRIME Z370-A           | Desktop  | Yes       | No                 | Unknown          | No               |
+| SABERTOOTH Z170 MARK 1 | Desktop  | No        | Unknown            | Unknown          | No               |
+| SABERTOOTH Z170 S      | Desktop  | No        | Unknown            | Unknown          | No               |
+| Z170 PRO GAMING        | Desktop  | No        | Unknown            | Unknown          | No               |
+| Z170 PRO GAMING/AURA   | Desktop  | No        | Unknown            | Unknown          | No               |
+| Z170-AR                | Desktop  | No        | Unknown            | Unknown          | No               |
+| Z170-DELUXE            | Desktop  | No        | Unknown            | Unknown          | No               |
+| Z170-E                 | Desktop  | No        | Unknown            | Unknown          | No               |
+| Z170-K                 | Desktop  | No        | Unknown            | Unknown          | No               |
+| Z170M-E D3             | Desktop  | No        | Unknown            | Unknown          | No               |
+| Z170M-PLUS             | Desktop  | No        | Unknown            | Unknown          | No               |
+| Z170M-PLUS/BR          | Desktop  | No        | Unknown            | Unknown          | No               |
+| Z170-P D3              | Desktop  | No        | Unknown            | Unknown          | No               |
+| Z170-PREMIUM           | Desktop  | No        | Unknown            | Unknown          | No               |
+| Z170-PRO               | Desktop  | No        | Unknown            | Unknown          | No               |
+| Z170-WS                | Desktop  | No        | Unknown            | Unknown          | No               |
 
 ## Clevo
 
