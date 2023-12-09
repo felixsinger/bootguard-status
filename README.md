@@ -82,6 +82,7 @@ TBD.
 
 | Model           | Category  | BootGuard | Manufactoring mode | coreboot support |
 |:----------------|:---------:|:---------:|:------------------:|:----------------:|
+| M700            | Desktop   | No        | No                 | In progress      |
 | M900            | Desktop   | No        | No                 | In progress      |
 | T470            | Noteboook | Yes       | No                 | No               |
 | T470p           | Noteboook | Yes       | No                 | No               |
