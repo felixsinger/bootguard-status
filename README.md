@@ -86,6 +86,7 @@ TBD.
 | T470            | Noteboook | Yes       | No                 | No               |
 | T470p           | Noteboook | Yes       | No                 | No               |
 | X1 Carbon Gen 4 | Noteboook | Yes       | No                 | No               |
+| P14s Gen 1      | Notebook  | Yes       | No                 | No               |
 
 ## MSI
 
