@@ -85,6 +85,7 @@ TBD.
 |:----------------|:---------:|:---------:|:------------------:|:----------------:|
 | M700            | Desktop   | No        | No                 | In progress      |
 | M900            | Desktop   | No        | No                 | In progress      |
+| T460s           | Noteboook | Yes       | No                 | No               |
 | T470            | Noteboook | Yes       | No                 | No               |
 | T470p           | Noteboook | Yes       | No                 | No               |
 | X1 Carbon Gen 4 | Noteboook | Yes       | No                 | No               |
