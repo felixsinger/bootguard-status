@@ -103,6 +103,11 @@ TBD.
 |:------|:--------:|:---------:|:------------------:|:----------------:|
 | FW6   | SBC      | No        | Yes                | Yes              |
 
+## Sophos (Caswell)
+
+| Model                  | Category                   | BootGuard | Manufactoring mode | coreboot support |
+|:-----------------------|:--------------------------:|:---------:|:------------------:|:----------------:|
+| XG330r2 (AIA-5276-EK)  | Network appliance / Server | No        | Yes                | No               |
 
 ## Supermicro
 
