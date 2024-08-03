@@ -79,6 +79,12 @@ TBD.
 |:---------|:--------:|:---------:|:------------------:|:----------------:|
 | Pocket 2 | Notebook | Yes       | Yes                | No               |
 
+## HP (Hewlett-Packard)
+
+| Model                | Category | BootGuard | Manufactoring mode | coreboot support |
+|:---------------------|:--------:|:---------:|:------------------:|:----------------:|
+| Elitedesk 800 G2 SFF | Desktop  | No        | Unknown            | No               |
+
 ## Lenovo
 
 | Model           | Category  | BootGuard | Manufactoring mode | coreboot support |
