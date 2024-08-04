@@ -72,6 +72,7 @@ TBD.
 | GA-Z170N-WIFI     | Desktop            | Yes       | Yes                | No               |
 | GA-Z170X-Gaming 7 | Desktop            | Yes       | Yes                | No               |
 | GA-SBCAP3450      | Desktop (Embedded) | Yes       | Yes                | No               |
+| GA-B250M-DS3H     | Desktop            | No        | Yes                | No               |
 
 ## GPD
 
