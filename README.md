@@ -73,6 +73,7 @@ This information is valuable for users, developers, and security researchers int
 
 | Model                       | Category | BootGuard | Manufactoring mode | coreboot support |
 |:----------------------------|:--------:|:---------:|:------------------:|:----------------:|
+| N650DU (SCHENKER OFFICE 15) | Notebook | No        | No                 | No               |
 | N850EZ (Tuxedo Book BC1507) | Notebook | No(?)     | No                 | No               |
 
 ## Dell
