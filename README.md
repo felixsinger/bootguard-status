@@ -1,6 +1,6 @@
 # BootGuard status
 ## What is this?
-The BootGuard status project is a community-driven effort to compile and maintain a list of mainboards and their respective BootGuard status[1]. BootGuard is an Intel technology designed to prevent unauthorized firmware and software from running during the boot process.
+The BootGuard status project is a community-driven effort to compile and maintain a list of mainboards and their respective BootGuard status. BootGuard is an Intel technology designed to prevent unauthorized firmware and software from running during the boot process.
 
 ## Project Description
 
