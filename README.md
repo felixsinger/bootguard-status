@@ -1,6 +1,26 @@
 # BootGuard status
 ## What is this?
-TBD.
+The BootGuard status project is a community-driven effort to compile and maintain a list of mainboards and their respective BootGuard status[1]. BootGuard is an Intel technology designed to prevent unauthorized firmware and software from running during the boot process.
+
+## Project Description
+
+The project aims to provide a comprehensive database of various computer models, categorizing them based on:
+
+- Manufacturer and model name
+- Device category (e.g., desktop, notebook, server)
+- BootGuard status (enabled or disabled)
+- Manufacturing mode status
+- Coreboot support availability
+
+This information is valuable for users, developers, and security researchers interested in understanding the security features and potential for custom firmware on different hardware platforms.
+
+## Key Features
+
+**Crowdsourced Data**: The project relies on contributions from the community to expand and update the list of devices and their BootGuard status.
+
+**Detailed Categorization**: Each entry in the list provides specific details about the device, allowing users to quickly find relevant information.
+
+**Instructions for Checking**: The project includes instructions on how users can check the BootGuard status of their own devices, promoting further contributions to the database.
 
 ## Okay. How can I check BootGuard status?
 1. Boot with `iomem=relaxed`.
