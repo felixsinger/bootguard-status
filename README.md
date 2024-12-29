@@ -88,6 +88,7 @@ This information is valuable for users, developers, and security researchers int
 
 | Model             | Category           | BootGuard | Manufactoring mode | coreboot support |
 |:------------------|:------------------:|:---------:|:------------------:|:----------------:|
+| GA-Z97M-D3H       | Desktop            | Yes       | Yes                | No               |
 | GA-Z97MX-Gaming 5 | Desktop            | Yes       | Yes                | No               |
 | GA-Z170N-WIFI     | Desktop            | Yes       | Yes                | No               |
 | GA-Z170X-Gaming 7 | Desktop            | Yes       | Yes                | No               |
