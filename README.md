@@ -111,12 +111,13 @@ This information is valuable for users, developers, and security researchers int
 
 | Model           | Category  | BootGuard | Manufactoring mode | coreboot support |
 |:----------------|:---------:|:---------:|:------------------:|:----------------:|
+| B50-70          | Notebook  | No        | No                 | No               |
 | M700            | Desktop   | No        | No                 | In progress      |
 | M900            | Desktop   | No        | No                 | In progress      |
-| T460s           | Noteboook | Yes       | No                 | No               |
-| T470            | Noteboook | Yes       | No                 | No               |
-| T470p           | Noteboook | Yes       | No                 | No               |
-| X1 Carbon Gen 4 | Noteboook | Yes       | No                 | No               |
+| T460s           | Notebook  | Yes       | No                 | No               |
+| T470            | Notebook  | Yes       | No                 | No               |
+| T470p           | Notebook  | Yes       | No                 | No               |
+| X1 Carbon Gen 4 | Notebook  | Yes       | No                 | No               |
 | P14s Gen 1      | Notebook  | Yes       | No                 | No               |
 
 ## MSI
