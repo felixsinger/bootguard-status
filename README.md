@@ -83,6 +83,7 @@ This information is valuable for users, developers, and security researchers int
 | XPS 15 9560     | Notebook | Yes       | No                 | No               |
 | Latitude 5490   | Notebook | Yes       | No                 | No               |
 | Precision M6800 | Notebook | No        | Yes                | No               |
+| Precision 3620  | Desktop  | Yes       | No                 | No               |
 
 ## Gigabyte
 
