@@ -39,11 +39,12 @@ This information is valuable for users, developers, and security researchers int
 
 ## ASRock
 
-| Model           | Category | BootGuard | Manufactoring mode | coreboot support |
-|:----------------|:--------:|:---------:|:------------------:|:----------------:|
-| H97 Anniversary | Desktop  | No        | No                 | No               |
-| H110M-DVS       | Desktop  | No        | No                 | Yes              |
-| Z370 Taichi     | Desktop  | Yes       | No                 | No               |
+| Model                       | Category | BootGuard | Manufactoring mode | coreboot support |
+|:----------------------------|:--------:|:---------:|:------------------:|:----------------:|
+| H97 Anniversary             | Desktop  | No        | No                 | No               |
+| H110M-DVS                   | Desktop  | No        | No                 | Yes              |
+| Z370 Taichi                 | Desktop  | Yes       | No                 | No               |
+| Z390 Phantom Gaming ITX/ac  | Desktop  | No        | No                 | No               |
 
 ## ASUS
 
