@@ -117,6 +117,7 @@ This information is valuable for users, developers, and security researchers int
 | B50-70          | Notebook  | No        | No                 | No               |
 | M700            | Desktop   | No        | No                 | In progress      |
 | M900            | Desktop   | No        | No                 | In progress      |
+| T450            | Notebook  | Yes       | No                 | No               |
 | T460s           | Notebook  | Yes       | No                 | No               |
 | T470            | Notebook  | Yes       | No                 | No               |
 | T470p           | Notebook  | Yes       | No                 | No               |
