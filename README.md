@@ -69,6 +69,8 @@ This information is valuable for users, developers, and security researchers int
 | Z170-PREMIUM           | Desktop  | No        | Unknown            | No               |
 | Z170-PRO               | Desktop  | No        | Unknown            | No               |
 | Z170-WS                | Desktop  | No        | Unknown            | No               |
+| Strix H270I Gaming     | Desktop  | No        | No                 | No               |
+| Strix H370-I Gaming    | Desktop  | No        | No                 | No               |
 
 ## Clevo
 
